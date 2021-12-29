@@ -1,2 +1,4 @@
 # HSE.-News-collector
-New collector from "news.ycombinator.com" website
+
+The program collects news from the site "news.ycombinator.com" for a certain period of time using requests to the api.
+Groups them by type, retrieves all the pictures and saves received information to the database (MongoDB).
